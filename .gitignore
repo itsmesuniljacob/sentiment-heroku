@@ -1,0 +1,10 @@
+product_ratings.csv
+records.csv
+RecordsJson.json
+Dockerfile
+.DS_Store
+pyeth/
+test.csv
+test.json
+.dockerignore
+run.py
