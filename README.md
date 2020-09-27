@@ -23,6 +23,9 @@ Python 3.6.1
 pip install flair flask
 ```
 
+Run
+`python3 app.py`
+
 Sample curl request
 
 ```
